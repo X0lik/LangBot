@@ -1,4 +1,4 @@
-# LangBot - AI Telegram Bot which helps to learn foreign languages
+# LangBot | AI which helps to learn foreign languages
 This code was written for hackathon
 
 Tools: Telebot, SQLite, YandexAI
