@@ -1,5 +1,5 @@
 # AI Bot which helps to learn languages
-This code was written for hackathon\n
+This code was written for hackathon
 Tools: Telebot, SQLite, YandexAI
 
 ## Features
